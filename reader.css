@@ -4,13 +4,13 @@ body {
 }
 
 h2 {
-	font-size: 400%;
+	font-size: 350%;
 }
 
 
 .pisen {
                         display: flex;
-                        font-size: 250%;
+                        font-size: 200%;
                     }
 
                     .sloupec {
