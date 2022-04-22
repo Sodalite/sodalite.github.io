@@ -1,0 +1,30 @@
+
+body {
+	font-family: "Trykker", serif;
+}
+
+h2 {
+	font-size: 400%;
+}
+
+
+.pisen {
+                        display: flex;
+                        font-size: 250%;
+                    }
+
+                    .sloupec {
+                        flex: 1;
+                        /* Space between columns */
+                        margin: 0 15px;
+
+                        /* Layout each column */
+                        display: flex;
+                        flex-direction: column;
+                    }
+
+                    .sloka {
+                        /* Take available height */
+                        flex: 1;
+                        
+                    }
